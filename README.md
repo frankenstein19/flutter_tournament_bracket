@@ -1,6 +1,6 @@
-# tournament_bracket
+# Tournament bracket
+Wonderful Tournament bracket widget and it is highly customizable. 
 
-A new Flutter project.
 
 ## Getting Started
 
