@@ -32,8 +32,8 @@ class LineWidget extends StatelessWidget{
        height: double.infinity,
      ))
    ],),
-   // left: x,
-   //   top: y,
+   left: x,
+     top: y,
    );
   }
 }
