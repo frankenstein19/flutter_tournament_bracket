@@ -25,14 +25,15 @@ class LineWidget extends StatelessWidget{
          )
        ],
      )),
+
      Expanded(child: Container(
        width: 1,
        color: Colors.white,
        height: double.infinity,
      ))
    ],),
-   left: x,
-     top: y,
+   // left: x,
+   //   top: y,
    );
   }
 }
